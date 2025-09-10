@@ -117,7 +117,7 @@ Lou Duloisy (collection, processing, analysis, submission)
 Danielle Ulrich
 Anna K. Schweiger
 Madelyn Zack (collection, analysis)
-High schooler
+Abby Noel
 
 ---------------------
 DATA & FILE OVERVIEW
@@ -126,22 +126,27 @@ This data set contains diurnal gas exchange, water potential, [NSC], and spectra
 
 1. File List
    A. Filename: WBP_diurnals.csv	
-	Short Description: Leaf gas exchange and water potential measurements
+	Short Description: Leaf gas exchange, water potential, and foliar NSC measurements
 	Size: 
 	Type: CSV file
 
-   B. Filename: DOB_pigments.csv	
+   B. Filename: WBP_spec.asd	
 	Short Description: Leaf-level spectra
 	Size: 
-	Type: CSV file  
+	Type: asd files
+
+   C. Filename: WBP_seasonal.csv	
+	Short Description: Leaf gas exchange, water potential, and foliar NSC measurements
+	Size: 
+	Type: CSV file
 
 -----------------------------------------
 DATA-SPECIFIC INFORMATION FOR: DOB_pigments.csv 
 -----------------------------------------
 
-1. Number of variables: 6
+1. Number of variables: 
 
-2. Number of cases/rows: 60
+2. Number of cases/rows: 
 
 3. Missing data codes: NA      
 
